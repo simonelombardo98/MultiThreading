@@ -11,15 +11,17 @@ Ognuno degli studenti deve:
 2. Fare le modifiche del codice per svolgere l'Esercizio 2.
 3. Per ogni modifica apportata introdurre un commento nel codice.
 4. Scrivere una pagina WIKI con l'elenco dei concetti imparati e la descrizione con proprie parole di ogni concetto.
-5. Verificare (testare) il codice che si e' modificato.
+5. Verificare (testare) il codice che si e' modificato (inserire il risultato della verifica nella WIKI).
 6. Quando il codice funziona correttamente fare un MERGE (fusione) del Branch "Esercizio 2" con il Branch "master"
 
 NOTA: Il testo dell'Esercizio 2 si trova nella WIKI di questo progetto.
 
 Se siete in difficolta' a produrre il vostro codice potete prendere il codice [TicTacToe usando Monitor](https://github.com/Prof-Matteo-Palitto-JCMaxwell/MultiThreading/blob/master/TicTacToe.java)  che ho generato per voi, studiarlo, inserire i vostri commenti che mi facciano capire che avete capito.
 
+Chi vuole accedere ad una votazione piu' alta deve anche o solamente fare le modifiche al proprio codice ex-novo (vedi valutazione).
+
 # Valutazione
-1. partecipazione alla discussione tramite la Pull Request. ( scala 2- 10, peso 2/13)
+1. partecipazione alla discussione tramite la [Pull Request](https://github.com/Prof-Matteo-Palitto-JCMaxwell/MultiThreading/pull/6). ( scala 2- 10, peso 2/13)
 2. Branch Esercizio 2 (scala 2|10, peso 1/13)
 3. WIKI (scala 2 - 10, peso 3/13)
 4. Modifica codice se il codice ex-novo (non copiato) (scala 2 - 10), se copiato e solo commentato (scala 2 - 7) (peso 4/13)
