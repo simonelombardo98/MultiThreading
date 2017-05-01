@@ -33,6 +33,7 @@ uno strumento informatico che permette a piu' processi di essere in esecuzione c
 
 ## Thread
 e' una porzione di un programma che viene eseguito contemporaneamente ad altre porzioni dello stesso programma. 
+![THREADs PIC](https://github.com/Prof-Matteo-Palitto-JCMaxwell/MultiThreading/blob/master/RopeThreds.png)
 
 Spesso THREADs comunicano, condividono risorse, collaborano e hanno parte di codice in comune.
 
